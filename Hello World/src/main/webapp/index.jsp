@@ -7,7 +7,7 @@
 <title>Hello</title>
 </head>
 <body>
-<h1>hello </h1>
+<h1>hello all </h1>
 <h2>Welcome to my page guys</h2>
 </body>
 </html>
