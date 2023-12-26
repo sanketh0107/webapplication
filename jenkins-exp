@@ -9,10 +9,9 @@ pipeline {
     stages {
         stage('Clone') {
             steps {
-               git https://github.com/sanketh0107/webapplication.git
+               git 'https://github.com/sanketh0107/webapplication.git'
             }
         }
-}
         stage('Build') {
             steps {
                sh 'mvn clean package'
